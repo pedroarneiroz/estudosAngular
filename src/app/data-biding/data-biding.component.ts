@@ -22,7 +22,6 @@ export class DataBidingComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  
   public alertaInfo(valor: MouseEvent){
     console.log(valor);
   }
